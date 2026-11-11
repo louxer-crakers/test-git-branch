@@ -1,2 +1,1 @@
-print("api")
-print("ecommerce")
+print("api ecommerce")
